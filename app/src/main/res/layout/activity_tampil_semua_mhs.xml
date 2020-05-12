@@ -6,7 +6,7 @@
     android:paddingTop="16dp"
     android:paddingBottom="16dp"
     tools:context="com.example.modul6.TampilSemuaMhs"
-    android:background="#009688">
+    android:background="@drawable/ombre">
 
 
     <ListView
